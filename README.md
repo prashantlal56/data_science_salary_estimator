@@ -61,7 +61,21 @@ This is my small contribution towards data scientist community to understand dif
    
    * Column for simplified job title and Seniority
    ## Exploratory Data Analysis
-   I went through distribution of numeric variables and frequency labels of different categorical variables. Found the relationship between different variables among themselves, made pivot tables and ploted graphs  
-     Few key highlights of my findings :  
+   I went through distribution of numeric variables and frequency labels of different categorical variables. Found the relationship between different variables among themselves, made pivot tables and ploted graphs 
    
-  
+   Few key highlights of my findings :
+     
+       Job Title                 | Average Salary    seniority | Average Salary    job_state | Average Salary
+       -------------------       |---------------    --------- |---------------    --------- |---------------
+       Director                  | 168.833333        Senior    | 121.686364         CA       | 123.513158
+       Machine learning Engineer | 119.958333        na        | 93.745935          IL       | 116.662500 
+       Data Scientist            | 108.312785        Associate | 79.907407          DC       | 110.181818
+       Manager                   | 107.285714        Jr        | 71.000000          MA       | 107.412621
+       Data Engineer             | 105.403361                                       NJ       | 104.558824  
+       na                        | 93.854167                                        MI       | 100.250000
+       Data Analyst              | 70.060150                                        RI       | 100.000000
+                                                                                    NY       | 98.652778     
+                                                                                    NC       | 98.452381
+                                                                                    MD       | 97.357143
+                                                                                    
+  ![alt text][]
