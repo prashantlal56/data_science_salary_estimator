@@ -49,7 +49,7 @@ This is my small contribution towards data scientist community to understand dif
   * Made column for state capturing information about job location
   * Made a binary indicator column indicating if the job was at the company's headquarter
   * Transformed founded date into age of company
-  * Classified types of ownerships into widely used umbrella terms
+  * Encoded types of ownerships into widely used umbrella terms
   * Extracted most demanded skills from job discreption:
   
      * python
