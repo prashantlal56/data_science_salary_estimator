@@ -1,7 +1,7 @@
 # Data science Salary Estimator
 Now a days the demand for data scientist have increased and many different companies are hiring Machine learning and Deep learning practitioner, giving different roles in their companies, assigning different titles and providing wide range salary
 
-This is my small contribution towards data scientist community to understand different types of role assigned and the aspected salary being offered to them
+This is my small contribution towards data scientist community to understand different types of role assigned and the expected salary being offered to them
 
 ## Project Overview
 
@@ -16,12 +16,12 @@ This is my small contribution towards data scientist community to understand dif
   **Python Version :** 3.8  
   **Packages :** pandas, numpy, sklearn, statsmodels, scipy, matplotlib, seaborn, feature-engine, selenium, flask, json, joblib  
   **For Web Framework Requirements :** pip install -r requirements.txt  
-  **Scraper Github :** [https://github.com/arapfaik/scraping-glassdoor-selenium]  
-  **Scraper Article :** [https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905]  
-  **Project Motivation :** [https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg]  
-  **Flask Productionization :** [https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2]  
+  **Scraper Github :** [GitHub](https://github.com/arapfaik/scraping-glassdoor-selenium)  
+  **Scraper Article :** [Towards Data Science](https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)  
+  **Project Motivation :** [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)  
+  **Flask Productionization :** [Towards Data Science](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)  
 ## Web Scraping 
-  Web scraped data from website : [https://www.glassdoor.co.in/index.htm]  
+  Web scraped data from website : [Glassdoor](https://www.glassdoor.co.in/index.htm)  
   
   With each Search we get the followings :  
   1. Job Title 
