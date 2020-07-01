@@ -118,8 +118,7 @@ The Gradient Boost model far outperformed the other approaches on the test and v
 **Random Forest** : MAE = 14.86  
 **Lasso Regression** : MAE = 18.14 
 
-##### Gradient Boosting Regression :
-![alt text](pic/gbr.png)
+![alt text](https://github.com/prashantlal56/data_science_salary_estimator/blob/master/pic/models.png)
 
 ## Productionization
 
